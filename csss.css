@@ -1,0 +1,14 @@
+fieldset {
+	padding:70px;
+	margin:50px;
+	background:#E2E2E2;
+	border-style:dashed;
+	border-width:10px;
+	text-transform:capitalize;
+}
+
+label {
+	text-decoration: none;
+	font-size: 20px;	
+
+}
